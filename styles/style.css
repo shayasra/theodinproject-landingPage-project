@@ -38,3 +38,12 @@ body{
     justify-content: space-around;
     align-items: center;
 }
+.main-1{
+    background-color: #fff;
+}
+.center-align{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+}
