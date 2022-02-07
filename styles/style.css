@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif;
+    width: 100%;
+    margin: auto;
+}
+.hero{
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+.container{
+    width: 85%;
+    margin: auto;
+}
+.logo{
+    font-size: 24px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-bar{
+    display: flex;
+    align-items: center;
+}
+.nav-list{
+    list-style: none;
+    padding: 0px 0px 0px 48px;
+}
+.nav-list a{
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.section1{
+    padding: 24px 0px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
