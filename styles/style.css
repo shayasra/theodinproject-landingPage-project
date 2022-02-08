@@ -47,3 +47,52 @@ body{
     font-weight: bolder;
     color: #1f2937;
 }
+.quote{
+    background-color: #e7e5eb;
+}
+.quote .text{
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    padding: 24px 0px;
+}
+button{
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-weight: bold;
+    padding: 6px 24px;
+    border-radius: 8px;
+    font-size: 18px;
+    border: 0px;
+}
+.qShay{
+    text-align: right;
+}
+.sec-four{
+    display: flex;
+    color: #f9faf8;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882f6;
+    width: 60%;
+    margin: 72px auto;
+    border-radius: 8px;
+    padding: 12px 0px;
+}
+.sec-four h2{
+    margin-bottom: 0;
+}
+.sec-four p{
+    margin-top: 0;
+}
+.action{
+    border: 1px solid white;
+}
+footer{
+    background-color: #1f2937;
+    padding: 12px;
+}
+.footer-p{
+    text-align: center;
+    color: #f9faf8;
+}
